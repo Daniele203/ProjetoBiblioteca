@@ -44,10 +44,4 @@ Exclusões
 Dicas
 • Para testar funcionalidades específicas, descomente as chamadas das funções. (Alguns testes de chamadas específicas foram comentadas para que o terminal pudesse mostrar as principais funcionalidades).
 • O sistema evita duplicidade de autores, livros e usuários por nome ou matrícula.
-=======
 
-# ProjetoBiblioteca
-
-Projeto Biblioteca - desafio ADA - POO
-
-> > > > > > > 01788872ec34369625ee6855f2e67d2e39b32fed
